@@ -1,0 +1,37 @@
+Render CH13-P069 at 1024×1536 pixels as two registered PNG files plus one authoritative text file: IAKESI-CH13-069-art.png, IAKESI-CH13-069-lettering.png, and IAKESI-CH13-069-text.txt.
+ARTWORK FILE — IAKESI-CH13-069-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH13-069-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+OUTPUT DIRECTORY — BINDING: place all three deliverables in the RenderedPages/ subdirectory of the current chapter project directory. Create RenderedPages/ if it does not exist, when filesystem access is available. Required relative output paths: RenderedPages/IAKESI-CH13-069-art.png; RenderedPages/IAKESI-CH13-069-lettering.png; RenderedPages/IAKESI-CH13-069-text.txt. Do not place final deliverables in RenderPackages/ or the chapter root. If rendering takes place in an environment without access to the user's chapter filesystem, return the three files with these exact filenames for installation into RenderedPages/; do not claim they were saved locally.
+Use 3 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Ashiba-Academy-Results-Board-Reference-Sheet.png, Assets/Ashiba-Academy-Administration-Building-Reference-Sheet.png, Assets/Mirel-Character-Sheet.png, Assets/Academy-Uniform-Male.png, Assets/Academy-Uniform-Female.png, Assets/Taren-Character-Sheet.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Full-color realistic manga. Follow the chapter recto/verso safe area and authoritative Global Production Setup. Reserve CSP lettering space; no artwork lettering furniture. All Zoran in-world text uses canonical Zoran script. Step 17 Directorial Plan: Provisional panel 1: x=137, y=75, w=812, h=734 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 1 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Carry established time-of-day lighting from adjacent scenes; maintain clear facial readability. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Day 8, courtyard.
+- Camera: Establishing wide, medium or close framing appropriate to the stated action; preserve speaker visibility and left-to-right reading order.
+- Scene: ([CH13-V0262] Direction: She looks carefully, then realizes she is not qualified.)
+- Blocking: Mirel at the roster.
+- CH13-U0220: Mirel, speech balloon (one speaker tail): “I... didn’t make it.”
+
+Panel 2:
+- Panel direction (not printed text): Full-color realistic manga. Follow the chapter recto/verso safe area and authoritative Global Production Setup. Reserve CSP lettering space; no artwork lettering furniture. All Zoran in-world text uses canonical Zoran script. Step 17 Directorial Plan: Provisional panel 2: x=137, y=823, w=399, h=638 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 1 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Carry established time-of-day lighting from adjacent scenes; maintain clear facial readability. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Day 8, courtyard.
+- Camera: Establishing wide, medium or close framing appropriate to the stated action; preserve speaker visibility and left-to-right reading order.
+- Scene: ([CH13-V0263] Direction: Her supporter, who cheered for her during the examinations, is visibly shaken.)
+- Blocking: Mirel and her upperclassman supporter. The speaking Upperclassman is visible beside Mirel.
+- CH13-U0221: Upperclassman, speech balloon (one speaker tail): “I’m sorry, Mirel.”
+
+Panel 3:
+- Panel direction (not printed text): Full-color realistic manga. Follow the chapter recto/verso safe area and authoritative Global Production Setup. Reserve CSP lettering space; no artwork lettering furniture. All Zoran in-world text uses canonical Zoran script. Step 17 Directorial Plan: Provisional panel 3: x=550, y=823, w=399, h=638 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Carry established time-of-day lighting from adjacent scenes; maintain clear facial readability. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Day 8, courtyard.
+- Camera: Establishing wide, medium or close framing appropriate to the stated action; preserve speaker visibility and left-to-right reading order.
+- Scene: ([CH13-V0264] Direction: Neither pretends their Academy careers can continue. Their future civilian or regular military paths remain undecided.)
+- Blocking: Taren approaching Mirel near courtyard exit.
+- CH13-U0222: Taren, speech balloon (one speaker tail): “What will you do?”
+- CH13-U0223: Mirel, speech balloon (one speaker tail): “I don’t know yet.”
+
+Story lettering rule: use exactly the 4 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+PRODUCTION FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are added manually in CSP.
+DELIVERY CHECK: return IAKESI-CH13-069-art.png and IAKESI-CH13-069-lettering.png as the two registered PNG layers. The companion IAKESI-CH13-069-text.txt is the authoritative wording file; both PNGs must be 1024×1536 pixels, perfectly registered, and unflattened.

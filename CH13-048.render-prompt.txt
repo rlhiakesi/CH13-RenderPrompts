@@ -1,0 +1,51 @@
+Render CH13-P048 at 1024×1536 pixels as two registered PNG files plus one authoritative text file: IAKESI-CH13-048-art.png, IAKESI-CH13-048-lettering.png, and IAKESI-CH13-048-text.txt.
+ARTWORK FILE — IAKESI-CH13-048-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH13-048-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+OUTPUT DIRECTORY — BINDING: place all three deliverables in the RenderedPages/ subdirectory of the current chapter project directory. Create RenderedPages/ if it does not exist, when filesystem access is available. Required relative output paths: RenderedPages/IAKESI-CH13-048-art.png; RenderedPages/IAKESI-CH13-048-lettering.png; RenderedPages/IAKESI-CH13-048-text.txt. Do not place final deliverables in RenderPackages/ or the chapter root. If rendering takes place in an environment without access to the user's chapter filesystem, return the three files with these exact filenames for installation into RenderedPages/; do not claim they were saved locally.
+Use 5 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Temple-Hospital-Reference-Sheet.png, Assets/Bali-Character-Reference-Sheet.png, Assets/Buren-Character-Sheet.png, Assets/Beli-production-sheet.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Full-color realistic manga. Left-to-right, top-to-bottom. Preserve parity-safe lettering space and established continuity; no lettering furniture or production metadata in art. FLASHBACK CONTINUATION: retain softened irregular dark borders, pale-gray/subtly textured gutters, and restrained full-color grading. Step 17 Directorial Plan: Provisional panel 1: x=75, y=75, w=812, h=496 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use coherent clinical/Temple treatment-room lighting; keep diagnostic features legible without English in-world labels. Geometry and lettering registration are provisional until artwork collision review. Step 18 Visual Continuity: FLASHBACK CONTINUITY LOCK: the mother remains the same patient and does not recover fully; healer activity and diagnostic props persist across the hospital scenes. Her mana-core anomaly remains unexplained.
+- Setting: Temple Hospital treatment room
+- Camera: Wide, restrained clinical
+- Scene: ([CH13-V0201] Direction: The healers inspect an irregular mana-core response while conventional treatment fails to stabilize it.)
+- Blocking: Mother unconscious; two healers and diagnostic crystal; siblings near doorway The speaking Healer is one of the two visible healers at the bedside.
+- CH13-U0163: Healer, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Healer: “The others exposed to the discharge are stable.” -> “Her mana core is not.”
+
+Panel 2:
+- Panel direction (not printed text): Full-color realistic manga. Left-to-right, top-to-bottom. Preserve parity-safe lettering space and established continuity; no lettering furniture or production metadata in art. FLASHBACK CONTINUATION: retain softened irregular dark borders, pale-gray/subtly textured gutters, and restrained full-color grading. Step 17 Directorial Plan: Provisional panel 2: x=75, y=585, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Diagnostic station
+- Camera: Over-shoulder close
+- Scene: ([CH13-V0202] Direction: The core displays a characteristic the healers cannot classify; no claim about a Seventh School is established. If the diagnostic display includes readable labels, use canonical Zoran script; convey the medically significant meaning through the healers’ dialogue, without unnecessary English inset.)
+- Blocking: Senior Healer and Healer examining readouts
+- CH13-U0164: Senior Healer, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Senior Healer: “The exposure was comparable.” -> “We do not know why only she was affected.”
+
+Panel 3:
+- Panel direction (not printed text): Full-color realistic manga. Left-to-right, top-to-bottom. Preserve parity-safe lettering space and established continuity; no lettering furniture or production metadata in art. FLASHBACK CONTINUATION: retain softened irregular dark borders, pale-gray/subtly textured gutters, and restrained full-color grading. Step 17 Directorial Plan: Provisional panel 3: x=488, y=585, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 1 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Treatment bedside, later
+- Camera: Medium two-shot
+- Scene: ([CH13-V0203] Direction: Buren stares at the inert equipment, frustrated); ([CH13-V0373] Direction: Beli watches the healer at work.)
+- Blocking: Young Buren gripping bedrail; young Beli beside him
+- CH13-U0165: Buren, speech balloon (one speaker tail): “Can you fix it?”
+
+Panel 4:
+- Panel direction (not printed text): Full-color realistic manga. Left-to-right, top-to-bottom. Preserve parity-safe lettering space and established continuity; no lettering furniture or production metadata in art. FLASHBACK CONTINUATION: retain softened irregular dark borders, pale-gray/subtly textured gutters, and restrained full-color grading. Step 17 Directorial Plan: Provisional panel 4: x=75, y=1030, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Carry established time-of-day lighting from adjacent scenes; maintain clear facial readability. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Same bedside
+- Camera: Medium intimate
+- Scene: ([CH13-V0204] Direction: The healer does not promise a cure, only continued treatment and stabilization.)
+- Blocking: Senior Healer tending mother; Beli foreground
+- CH13-U0166: Senior Healer, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Senior Healer: “I can keep trying.” -> “I will not leave her untreated.”
+
+Panel 5:
+- Panel direction (not printed text): Full-color realistic manga. Left-to-right, top-to-bottom. Preserve parity-safe lettering space and established continuity; no lettering furniture or production metadata in art. FLASHBACK CONTINUATION: retain softened irregular dark borders, pale-gray/subtly textured gutters, and restrained full-color grading. Step 17 Directorial Plan: Provisional panel 5: x=488, y=1030, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. No lettering footprint is assigned; prioritize the visual action and preserve a clean reading path. Use coherent clinical/Temple treatment-room lighting; keep diagnostic features legible without English in-world labels. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Hospital corridor, time passage
+- Camera: Long quiet view
+- Scene: ([CH13-V0205] Direction: Several days pass); ([CH13-V0374] Direction: the healer returns repeatedly. The mother survives but her core remains impaired.)
+- Blocking: Young Beli seated with blanket; healer visible through doorway
+
+Story lettering rule: use exactly the 7 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+PRODUCTION FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are added manually in CSP.
+DELIVERY CHECK: return IAKESI-CH13-048-art.png and IAKESI-CH13-048-lettering.png as the two registered PNG layers. The companion IAKESI-CH13-048-text.txt is the authoritative wording file; both PNGs must be 1024×1536 pixels, perfectly registered, and unflattened.

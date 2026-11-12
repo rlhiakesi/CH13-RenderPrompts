@@ -1,0 +1,51 @@
+Render CH13-P045 at 1024×1536 pixels as two registered PNG files plus one authoritative text file: IAKESI-CH13-045-art.png, IAKESI-CH13-045-lettering.png, and IAKESI-CH13-045-text.txt.
+ARTWORK FILE — IAKESI-CH13-045-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH13-045-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+OUTPUT DIRECTORY — BINDING: place all three deliverables in the RenderedPages/ subdirectory of the current chapter project directory. Create RenderedPages/ if it does not exist, when filesystem access is available. Required relative output paths: RenderedPages/IAKESI-CH13-045-art.png; RenderedPages/IAKESI-CH13-045-lettering.png; RenderedPages/IAKESI-CH13-045-text.txt. Do not place final deliverables in RenderPackages/ or the chapter root. If rendering takes place in an environment without access to the user's chapter filesystem, return the three files with these exact filenames for installation into RenderedPages/; do not claim they were saved locally.
+Use 5 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Faculty-Deliberation-Room.png, Assets/Lucia-Character-Sheet.png, Assets/Celeste-Character-Sheet.png, Assets/Eliane Character Sheet.png, Assets/Brienmay-production-sheet.png, Assets/Ashire-Character-Sheet.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 1: x=137, y=75, w=812, h=496 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. No lettering footprint is assigned; prioritize the visual action and preserve a clean reading path. Carry established time-of-day lighting from adjacent scenes; maintain clear facial readability. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Administration conference room, morning
+- Camera: Wide establishing
+- Scene: ([CH13-V0186] Direction: Stacks of first-year records cover the table. The cohort is too large for a single sitting.)
+- Blocking: Ashire at head; Lucia, Celeste, Eliane, Brienmay and additional examiners around table
+
+Panel 2:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 2: x=137, y=585, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Carry established time-of-day lighting from adjacent scenes; maintain clear facial readability. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Head of table
+- Camera: Medium front
+- Scene: ([CH13-V0187] Direction: Ashire distinguishes qualification from specialization.)
+- Blocking: Ashire facing faculty
+- CH13-U0152: Ashire, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Ashire: “First, decide who may continue.” -> “Only then decide which track best develops those who qualify.”
+
+Panel 3:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 3: x=550, y=585, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Carry established time-of-day lighting from adjacent scenes; maintain clear facial readability. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Reports table
+- Camera: Two-shot
+- Scene: ([CH13-V0188] Direction: Lucia notes that recommended tracks are strongly advised but can be changed by demonstrating competence. Qualification failure has no Academy continuation route.)
+- Blocking: Lucia with candidate folder; Celeste listening
+- CH13-U0153: Lucia, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Lucia: “A qualified student may later petition for another track.” -> “An unqualified student leaves the Academy.”
+
+Panel 4:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 4: x=137, y=1030, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Carry established time-of-day lighting from adjacent scenes; maintain clear facial readability. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Faculty reaction
+- Camera: Medium two-shot
+- Scene: ([CH13-V0189] Direction: A junior examiner looks at the workload.) ([CH13-V0365] Direction: Ashire makes clear they will take the necessary days.)
+- Blocking: Examiner beside tall stack; Ashire opposite
+- CH13-U0154: Examiner, speech balloon (one speaker tail): “There are hundreds of records.”
+- CH13-U0155: Ashire, speech balloon (one speaker tail): “Then we will examine hundreds of records.”
+
+Panel 5:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 5: x=550, y=1030, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. No lettering footprint is assigned; prioritize the visual action and preserve a clean reading path. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Administration corridor
+- Camera: Long hallway
+- Scene: ([CH13-V0190] Direction: The review begins in earnest. Student names and results remain confidential until posting.)
+- Blocking: Clerks carrying files; faculty visible through open doorway
+
+Story lettering rule: use exactly the 6 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+PRODUCTION FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are added manually in CSP.
+DELIVERY CHECK: return IAKESI-CH13-045-art.png and IAKESI-CH13-045-lettering.png as the two registered PNG layers. The companion IAKESI-CH13-045-text.txt is the authoritative wording file; both PNGs must be 1024×1536 pixels, perfectly registered, and unflattened.

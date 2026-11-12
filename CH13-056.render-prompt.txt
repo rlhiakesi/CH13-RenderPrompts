@@ -1,0 +1,28 @@
+Render CH13-P056 at 1024×1536 pixels as two registered PNG files plus one authoritative text file: IAKESI-CH13-056-art.png, IAKESI-CH13-056-lettering.png, and IAKESI-CH13-056-text.txt.
+ARTWORK FILE — IAKESI-CH13-056-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH13-056-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+OUTPUT DIRECTORY — BINDING: place all three deliverables in the RenderedPages/ subdirectory of the current chapter project directory. Create RenderedPages/ if it does not exist, when filesystem access is available. Required relative output paths: RenderedPages/IAKESI-CH13-056-art.png; RenderedPages/IAKESI-CH13-056-lettering.png; RenderedPages/IAKESI-CH13-056-text.txt. Do not place final deliverables in RenderPackages/ or the chapter root. If rendering takes place in an environment without access to the user's chapter filesystem, return the three files with these exact filenames for installation into RenderedPages/; do not claim they were saved locally.
+Use 2 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Faculty-Deliberation-Room.png, Assets/Celeste-Character-Sheet.png, Assets/Ashire-Character-Sheet.png, Assets/Buren-Character-Sheet.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Full-color realistic manga. Left-to-right, top-to-bottom. Preserve parity-safe lettering space and established continuity; no lettering furniture or production metadata in art. Step 17 Directorial Plan: Provisional panel 1: x=75, y=75, w=812, h=686 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Carry established time-of-day lighting from adjacent scenes; maintain clear facial readability. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Table
+- Camera: Medium front
+- Scene: ([CH13-V0225] Direction: Celeste advocates Battle Mage training with engineering emphasis and explicit restraint instruction.)
+- Blocking: Celeste answering firmly
+- CH13-U0186: Celeste, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Celeste: “His aptitude is real.” -> “Our responsibility is to teach him when not to use all his strength.”
+
+Panel 2:
+- Panel direction (not printed text): Full-color realistic manga. Left-to-right, top-to-bottom. Preserve parity-safe lettering space and established continuity; no lettering furniture or production metadata in art. Step 17 Directorial Plan: Provisional panel 2: x=75, y=775, w=812, h=686 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Carry established time-of-day lighting from adjacent scenes; maintain clear facial readability. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Head of table
+- Camera: Medium close
+- Scene: ([CH13-V0226] Direction: Buren qualifies for the strongly recommended Battle Mage track; advanced Firma engineering and restraint training are noted.)
+- Blocking: Ashire signing recommendation
+- CH13-U0187: Ashire, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Ashire: “Qualified. Battle Mage track.” -> “Firma engineering emphasis. Additional restraint training.”
+
+Story lettering rule: use exactly the 4 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+PRODUCTION FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are added manually in CSP.
+DELIVERY CHECK: return IAKESI-CH13-056-art.png and IAKESI-CH13-056-lettering.png as the two registered PNG layers. The companion IAKESI-CH13-056-text.txt is the authoritative wording file; both PNGs must be 1024×1536 pixels, perfectly registered, and unflattened.
