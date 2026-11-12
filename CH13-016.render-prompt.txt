@@ -1,0 +1,31 @@
+Render CH13-P016 at 1024×1536 pixels as two registered PNG files plus one authoritative text file: IAKESI-CH13-016-art.png, IAKESI-CH13-016-lettering.png, and IAKESI-CH13-016-text.txt.
+ARTWORK FILE — IAKESI-CH13-016-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH13-016-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+OUTPUT DIRECTORY — BINDING: place all three deliverables in the RenderedPages/ subdirectory of the current chapter project directory. Create RenderedPages/ if it does not exist, when filesystem access is available. Required relative output paths: RenderedPages/IAKESI-CH13-016-art.png; RenderedPages/IAKESI-CH13-016-lettering.png; RenderedPages/IAKESI-CH13-016-text.txt. Do not place final deliverables in RenderPackages/ or the chapter root. If rendering takes place in an environment without access to the user's chapter filesystem, return the three files with these exact filenames for installation into RenderedPages/; do not claim they were saved locally.
+Use 2 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Water-Magic-Station-Reference.png, Assets/Midori-Academy-Uniform-Production-Sheet.png, Assets/Celeste-Character-Sheet.png, Assets/Academy-Uniform-Male.png, Assets/Academy-Uniform-Female.png, Assets/Midori-Production-Academy.png, Assets/Buren-Character-Sheet.png, Assets/Beli-production-sheet.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Maintain left-to-right reading, page-parity safe area and clear CSP lettering space. No lettering or production metadata in base artwork. Step 17 Directorial Plan: Provisional panel 1: x=75, y=75, w=812, h=686 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. No lettering footprint is assigned; prioritize the visual action and preserve a clean reading path. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Panel direction (not printed text): Use Midori-Production-Academy.png as the identity reference for Midori. Match the face, dark brown eyes, long black hair tied with a red ribbon, and age-14 proportions to that sheet. Preserve the costume specified for this scene.
+- Panel direction (not printed text): Use Midori-Academy-Uniform-Production-Sheet.png for Midori’s modified academy uniform, including her longer skirt. The generic academy uniform sheets apply to other students.
+- Setting: Water station, seconds after collapse.
+- Camera: Close-up on measuring line.
+- Scene: ([CH13-V0062] Direction: Water settles. Its level barely reaches the minimum mark); ([CH13-V0308] Direction: most of the water lies spilled below.)
+- Blocking: Receiving basin foreground; Midori beyond; Celeste to side.
+
+Panel 2:
+- Panel direction (not printed text): Maintain left-to-right reading, page-parity safe area and clear CSP lettering space. No lettering or production metadata in base artwork. Step 17 Directorial Plan: Provisional panel 2: x=75, y=775, w=812, h=686 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Panel direction (not printed text): Use Midori-Production-Academy.png as the identity reference for Midori. Match the face, dark brown eyes, long black hair tied with a red ribbon, and age-14 proportions to that sheet. Preserve the costume specified for this scene.
+- Panel direction (not printed text): Use Midori-Academy-Uniform-Production-Sheet.png for Midori’s modified academy uniform, including her longer skirt. The generic academy uniform sheets apply to other students.
+- Setting: Examiner line.
+- Camera: Medium two-shot.
+- Scene: ([CH13-V0063] Direction: Celeste records result and identifies loss of phase control.)
+- Blocking: Celeste facing Midori; Beli and Buren remain behind marked line.
+- CH13-U0052: Celeste, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Celeste: “Pass. Barely.” -> “Your freezing control broke down during movement.”
+
+Story lettering rule: use exactly the 2 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+PRODUCTION FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are added manually in CSP.
+DELIVERY CHECK: return IAKESI-CH13-016-art.png and IAKESI-CH13-016-lettering.png as the two registered PNG layers. The companion IAKESI-CH13-016-text.txt is the authoritative wording file; both PNGs must be 1024×1536 pixels, perfectly registered, and unflattened.

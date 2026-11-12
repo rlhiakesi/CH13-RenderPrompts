@@ -1,0 +1,50 @@
+Render CH13-P018 at 1024×1536 pixels as two registered PNG files plus one authoritative text file: IAKESI-CH13-018-art.png, IAKESI-CH13-018-lettering.png, and IAKESI-CH13-018-text.txt.
+ARTWORK FILE — IAKESI-CH13-018-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH13-018-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+OUTPUT DIRECTORY — BINDING: place all three deliverables in the RenderedPages/ subdirectory of the current chapter project directory. Create RenderedPages/ if it does not exist, when filesystem access is available. Required relative output paths: RenderedPages/IAKESI-CH13-018-art.png; RenderedPages/IAKESI-CH13-018-lettering.png; RenderedPages/IAKESI-CH13-018-text.txt. Do not place final deliverables in RenderPackages/ or the chapter root. If rendering takes place in an environment without access to the user's chapter filesystem, return the three files with these exact filenames for installation into RenderedPages/; do not claim they were saved locally.
+Use 5 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Firma-Magic-Station-Reference-Sheet.png, Assets/Celeste-Character-Sheet.png, Assets/Mirel-Character-Sheet.png, Assets/Academy-Uniform-Male.png, Assets/Academy-Uniform-Female.png, Assets/Buren-Character-Sheet.png, Assets/Taren-Character-Sheet.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Maintain left-to-right reading, page-parity safe area and clear CSP lettering space. No lettering or production metadata in base artwork. Step 17 Directorial Plan: Provisional panel 1: x=75, y=75, w=812, h=496 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 3 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review. Step 18 Visual Continuity: CONTINUITY LOCK: Firma material is drawn from the prepared ground/rubble piles. Construction, projectile impacts, and deconstruction occur in the same marked lane; reset before the next student.
+- Setting: Day 2, midday. Firma field with marked construction zone, prepared piles of rubble, stone and earth; mechanical launchers behind safety barrier.
+- Camera: Wide establishing shot.
+- Scene: ([CH13-V0067] Direction: Celeste gestures to raw material and test launchers.)
+- Blocking: Celeste at front; first-year group behind line.
+- CH13-U0057: Celeste, connected speech-balloon chain with 3 balloons; exactly one tail on the entire chain points to Celeste: “Draw your material from the ground.” -> “Build to the posted dimensions. Survive the impacts.” -> “Then dismantle your wall and return the material.”
+
+Panel 2:
+- Panel direction (not printed text): Maintain left-to-right reading, page-parity safe area and clear CSP lettering space. No lettering or production metadata in base artwork. Step 17 Directorial Plan: Provisional panel 2: x=75, y=585, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. No lettering footprint is assigned; prioritize the visual action and preserve a clean reading path. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Firma field.
+- Camera: Medium-wide.
+- Scene: ([CH13-V0068] Direction: Mirel carefully assembles a serviceable wall from the prepared material.)
+- Blocking: Mirel within marked zone; assistants outside.
+
+Panel 3:
+- Panel direction (not printed text): Maintain left-to-right reading, page-parity safe area and clear CSP lettering space. No lettering or production metadata in base artwork. Step 17 Directorial Plan: Provisional panel 3: x=488, y=585, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 1 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Test range.
+- Camera: Wide action view.
+- Scene: ([CH13-V0069] Direction: Launchers strike.) ([CH13-V0310] Direction: The wall holds the first hit but cracks under the next.)
+- Blocking: Mirel behind safety line; wall alone in impact lane.
+- CH13-U0058: sfx: “THUD!”
+
+Panel 4:
+- Panel direction (not printed text): Maintain left-to-right reading, page-parity safe area and clear CSP lettering space. No lettering or production metadata in base artwork. Step 17 Directorial Plan: Provisional panel 4: x=75, y=1030, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 1 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Deconstruction area.
+- Camera: Medium.
+- Scene: ([CH13-V0070] Direction: Mirel successfully breaks down the damaged wall, though she hesitates over a difficult joint.)
+- Blocking: Mirel at safe distance; wall damaged.
+- CH13-U0059: Mirel, thought cloud (thought dots only) (one speaker tail): “Slowly... keep it together.”
+
+Panel 5:
+- Panel direction (not printed text): Maintain left-to-right reading, page-parity safe area and clear CSP lettering space. No lettering or production metadata in base artwork. Step 17 Directorial Plan: Provisional panel 5: x=488, y=1030, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. No lettering footprint is assigned; prioritize the visual action and preserve a clean reading path. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Another turn at Firma station.
+- Camera: Medium-wide.
+- Scene: ([CH13-V0071] Direction: A sturdy wall remains in large fused chunks. The student struggles to pulverize it after the projectile test); ([CH13-V0311] Direction: Celeste records the costly effort.)
+- Blocking: Unnamed student at deconstruction line; Taren and Buren watching.
+
+Story lettering rule: use exactly the 5 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+PRODUCTION FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are added manually in CSP.
+DELIVERY CHECK: return IAKESI-CH13-018-art.png and IAKESI-CH13-018-lettering.png as the two registered PNG layers. The companion IAKESI-CH13-018-text.txt is the authoritative wording file; both PNGs must be 1024×1536 pixels, perfectly registered, and unflattened.

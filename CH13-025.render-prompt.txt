@@ -1,0 +1,60 @@
+Render CH13-P025 at 1024×1536 pixels as two registered PNG files plus one authoritative text file: IAKESI-CH13-025-art.png, IAKESI-CH13-025-lettering.png, and IAKESI-CH13-025-text.txt.
+ARTWORK FILE — IAKESI-CH13-025-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH13-025-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+OUTPUT DIRECTORY — BINDING: place all three deliverables in the RenderedPages/ subdirectory of the current chapter project directory. Create RenderedPages/ if it does not exist, when filesystem access is available. Required relative output paths: RenderedPages/IAKESI-CH13-025-art.png; RenderedPages/IAKESI-CH13-025-lettering.png; RenderedPages/IAKESI-CH13-025-text.txt. Do not place final deliverables in RenderPackages/ or the chapter root. If rendering takes place in an environment without access to the user's chapter filesystem, return the three files with these exact filenames for installation into RenderedPages/; do not claim they were saved locally.
+Use 5 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Wind-Magic-Station-Reference-Sheet.png, Assets/Midori-Academy-Uniform-Production-Sheet.png, Assets/Academy-Uniform-Male.png, Assets/Academy-Uniform-Female.png, Assets/Midori-Production-Academy.png, Assets/Mirel-Character-Sheet.png, Assets/Celeste-Character-Sheet.png, Assets/Taren-Character-Sheet.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 1: x=137, y=75, w=812, h=496 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. No lettering footprint is assigned; prioritize the visual action and preserve a clean reading path. Keep feather, crystal rings, and crosswind effects distinguishable against the background. Geometry and lettering registration are provisional until artwork collision review.
+- Panel direction (not printed text): Use Midori-Production-Academy.png as the identity reference for Midori. Match the face, dark brown eyes, long black hair tied with a red ribbon, and age-14 proportions to that sheet. Preserve the costume specified for this scene.
+- Panel direction (not printed text): Use Midori-Academy-Uniform-Production-Sheet.png for Midori’s modified academy uniform, including her longer skirt. The generic academy uniform sheets apply to other students.
+- Setting: Wind course, Midori attempt.
+- Camera: Long diagonal course view.
+- Scene: ([CH13-V0101] Direction: Her feather clears rings one through six, guided by tiny finger motions.)
+- Blocking: Midori at start; feather midway through rings.
+
+Panel 2:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 2: x=137, y=585, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. No lettering footprint is assigned; prioritize the visual action and preserve a clean reading path. Keep feather, crystal rings, and crosswind effects distinguishable against the background. Geometry and lettering registration are provisional until artwork collision review.
+- Panel direction (not printed text): Use Midori-Production-Academy.png as the identity reference for Midori. Match the face, dark brown eyes, long black hair tied with a red ribbon, and age-14 proportions to that sheet. Preserve the costume specified for this scene.
+- Panel direction (not printed text): Use Midori-Academy-Uniform-Production-Sheet.png for Midori’s modified academy uniform, including her longer skirt. The generic academy uniform sheets apply to other students.
+- Setting: Same course.
+- Camera: Compressed telephoto composition.
+- Scene: ([CH13-V0102] Direction: The feather passes the tenth ring); ([CH13-V0326] Direction: a sudden induced crosswind catches its edge.)
+- Blocking: Midori lower foreground, feather at rings seven through ten; instructor partly visible at air-control post.
+
+Panel 3:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 3: x=550, y=585, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 1 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Keep feather, crystal rings, and crosswind effects distinguishable against the background. Geometry and lettering registration are provisional until artwork collision review.
+- Panel direction (not printed text): Use Midori-Production-Academy.png as the identity reference for Midori. Match the face, dark brown eyes, long black hair tied with a red ribbon, and age-14 proportions to that sheet. Preserve the costume specified for this scene.
+- Panel direction (not printed text): Use Midori-Academy-Uniform-Production-Sheet.png for Midori’s modified academy uniform, including her longer skirt. The generic academy uniform sheets apply to other students.
+- Setting: Eleventh ring.
+- Camera: Close on feather brushing crystal.
+- Scene: ([CH13-V0103] Direction: Midori responds a fraction too late.) ([CH13-V0327] Direction: The feather taps the ring and loses lift.)
+- Blocking: Feather and ring prominent; Midori beyond, reaching to correct.
+- CH13-U0086: sfx: “TINK.”
+
+Panel 4:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 4: x=137, y=1030, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 3 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Keep feather, crystal rings, and crosswind effects distinguishable against the background. Geometry and lettering registration are provisional until artwork collision review.
+- Panel direction (not printed text): Use Midori-Production-Academy.png as the identity reference for Midori. Match the face, dark brown eyes, long black hair tied with a red ribbon, and age-14 proportions to that sheet. Preserve the costume specified for this scene.
+- Panel direction (not printed text): Use Midori-Academy-Uniform-Production-Sheet.png for Midori’s modified academy uniform, including her longer skirt. The generic academy uniform sheets apply to other students.
+- Setting: Wind starting area.
+- Camera: Medium shot, readable eyelines.
+- Scene: ([CH13-V0104] Direction: Celeste notes the failed course); ([CH13-V0328] Direction: Midori studies the crosswind post rather than arguing.)
+- Blocking: Celeste beside Midori; Mirel waiting behind, anxious.
+- CH13-U0087: Celeste, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Celeste: “Your control was good.” -> “Your recovery was late.”
+- CH13-U0088: Midori, speech balloon (one speaker tail): “Understood, Instructor.”
+
+Panel 5:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 5: x=550, y=1030, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Carry established time-of-day lighting from adjacent scenes; maintain clear facial readability. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Waiting line.
+- Camera: Tight two-shot.
+- Scene: ([CH13-V0105] Direction: Mirel looks at the eleventh ring, now more nervous about unpredictable conditions.)
+- Blocking: Mirel foreground; Taren just behind her, supportive.
+- CH13-U0089: Mirel, speech balloon (one speaker tail): “It changed so quickly...”
+- CH13-U0090: Taren, speech balloon (one speaker tail): “You can still do this.”
+
+Story lettering rule: use exactly the 6 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+PRODUCTION FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are added manually in CSP.
+DELIVERY CHECK: return IAKESI-CH13-025-art.png and IAKESI-CH13-025-lettering.png as the two registered PNG layers. The companion IAKESI-CH13-025-text.txt is the authoritative wording file; both PNGs must be 1024×1536 pixels, perfectly registered, and unflattened.

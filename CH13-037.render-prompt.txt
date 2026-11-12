@@ -1,0 +1,51 @@
+Render CH13-P037 at 1024×1536 pixels as two registered PNG files plus one authoritative text file: IAKESI-CH13-037-art.png, IAKESI-CH13-037-lettering.png, and IAKESI-CH13-037-text.txt.
+ARTWORK FILE — IAKESI-CH13-037-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH13-037-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+OUTPUT DIRECTORY — BINDING: place all three deliverables in the RenderedPages/ subdirectory of the current chapter project directory. Create RenderedPages/ if it does not exist, when filesystem access is available. Required relative output paths: RenderedPages/IAKESI-CH13-037-art.png; RenderedPages/IAKESI-CH13-037-lettering.png; RenderedPages/IAKESI-CH13-037-text.txt. Do not place final deliverables in RenderPackages/ or the chapter root. If rendering takes place in an environment without access to the user's chapter filesystem, return the three files with these exact filenames for installation into RenderedPages/; do not claim they were saved locally.
+Use 5 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Battlefield-Evaluation-Rang-Reference-Sheet.png, Assets/Celeste-Character-Sheet.png, Assets/Buren-Character-Sheet.png, Assets/Taren-Character-Sheet.png, Assets/Mirel-Character-Sheet.png, Assets/Academy-Uniform-Male.png, Assets/Academy-Uniform-Female.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 1: x=137, y=75, w=812, h=496 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. No lettering footprint is assigned; prioritize the visual action and preserve a clean reading path. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review. Step 18 Visual Continuity: CONTINUITY LOCK: battlefield targets, neutral structures, allied markers, safety barriers and recovery staff remain in fixed positions for all student attempts; targets are reset between turns.
+- Setting: Battlefield training grounds, afternoon
+- Camera: Wide establishing
+- Scene: ([CH13-V0156] Direction: The field has assigned wooden targets, allied markers, neutral structures, brush, and marked safety limits.) ([CH13-V0347] Direction: Emergency crews stand behind shields.)
+- Blocking: First-year group behind protected boundary; Celeste before them
+
+Panel 2:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 2: x=137, y=585, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Briefing line
+- Camera: Medium front view
+- Scene: ([CH13-V0157] Direction: Celeste identifies the objective and one-attempt rule.)
+- Blocking: Celeste foreground; students in rows
+- CH13-U0124: Celeste, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Celeste: “Destroy only your assigned enemy target.” -> “You have one attempt.”
+
+Panel 3:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 3: x=550, y=585, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Safety perimeter
+- Camera: Wide across crew positions
+- Scene: ([CH13-V0158] Direction: She indicates rescue and repair crews and the protected spectator boundary.)
+- Blocking: Healers, Water and Firma response crews visible beyond Celeste
+- CH13-U0125: Celeste, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Celeste: “Do not injure yourself or anyone else.” -> “Do not damage allied positions, neutral structures, or other targets.”
+
+Panel 4:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 4: x=137, y=1030, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 1 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Battlefield range
+- Camera: Medium group shot
+- Scene: ([CH13-V0159] Direction: Students realize their earlier technical performances do not guarantee success here.)
+- Blocking: Taren and Mirel among group; Buren attentive Celeste is visible beside the examiner’s marker while addressing the group.
+- CH13-U0126: Celeste, speech balloon (one speaker tail): “Your judgment is being examined as carefully as your magic.”
+
+Panel 5:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 5: x=550, y=1030, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 1 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Setting: Assigned target lane
+- Camera: Long shot toward targets
+- Scene: ([CH13-V0160] Direction: Mirel is called first.) ([CH13-V0348] Direction: She studies the field, already seeing several possible dangers.)
+- Blocking: Mirel at line; Taren watching; Celeste behind boundary
+- CH13-U0127: Celeste, speech balloon (one speaker tail): “Miss Mirel. Begin.”
+
+Story lettering rule: use exactly the 6 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+PRODUCTION FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are added manually in CSP.
+DELIVERY CHECK: return IAKESI-CH13-037-art.png and IAKESI-CH13-037-lettering.png as the two registered PNG layers. The companion IAKESI-CH13-037-text.txt is the authoritative wording file; both PNGs must be 1024×1536 pixels, perfectly registered, and unflattened.

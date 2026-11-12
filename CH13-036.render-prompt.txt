@@ -1,0 +1,62 @@
+Render CH13-P036 at 1024×1536 pixels as two registered PNG files plus one authoritative text file: IAKESI-CH13-036-art.png, IAKESI-CH13-036-lettering.png, and IAKESI-CH13-036-text.txt.
+ARTWORK FILE — IAKESI-CH13-036-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH13-036-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+OUTPUT DIRECTORY — BINDING: place all three deliverables in the RenderedPages/ subdirectory of the current chapter project directory. Create RenderedPages/ if it does not exist, when filesystem access is available. Required relative output paths: RenderedPages/IAKESI-CH13-036-art.png; RenderedPages/IAKESI-CH13-036-lettering.png; RenderedPages/IAKESI-CH13-036-text.txt. Do not place final deliverables in RenderPackages/ or the chapter root. If rendering takes place in an environment without access to the user's chapter filesystem, return the three files with these exact filenames for installation into RenderedPages/; do not claim they were saved locally.
+Use 5 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Dark-Magic-Station-Reference-Sheet.png, Assets/Midori-Academy-Uniform-Production-Sheet.png, Assets/Brienmay-production-sheet.png, Assets/Academy-Uniform-Male.png, Assets/Academy-Uniform-Female.png, Assets/Midori-Production-Academy.png, Assets/Beli-production-sheet.png, Assets/Kenee-Character-Sheet.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 1: x=75, y=75, w=812, h=496 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 1 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Panel direction (not printed text): Use Midori-Production-Academy.png as the identity reference for Midori. Match the face, dark brown eyes, long black hair tied with a red ribbon, and age-14 proportions to that sheet. Preserve the costume specified for this scene.
+- Panel direction (not printed text): Use Midori-Academy-Uniform-Production-Sheet.png for Midori’s modified academy uniform, including her longer skirt. The generic academy uniform sheets apply to other students.
+- Setting: Finish pedestal
+- Camera: Medium two-shot
+- Scene: ([CH13-V0151] Direction: Midori is surprised that he asks for an explanation rather than a score.)
+- Blocking: Midori facing Brienmay; sphere motionless
+- CH13-U0119: Midori, speech balloon (one speaker tail): “Professor?”
+
+Panel 2:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 2: x=75, y=585, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Panel direction (not printed text): Use Midori-Production-Academy.png as the identity reference for Midori. Match the face, dark brown eyes, long black hair tied with a red ribbon, and age-14 proportions to that sheet. Preserve the costume specified for this scene.
+- Panel direction (not printed text): Use Midori-Academy-Uniform-Production-Sheet.png for Midori’s modified academy uniform, including her longer skirt. The generic academy uniform sheets apply to other students.
+- Setting: Dark course
+- Camera: Over-shoulder from Brienmay
+- Scene: ([CH13-V0152] Direction: She explains her decision to preserve momentum while paying only for support, necessary corrections, and resistance.)
+- Blocking: Midori gestures toward track; Brienmay listens
+- CH13-U0120: Midori, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Midori: “Once it was moving...” -> “...I didn’t need to keep pushing it.”
+
+Panel 3:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 3: x=488, y=585, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 1 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Panel direction (not printed text): Use Midori-Production-Academy.png as the identity reference for Midori. Match the face, dark brown eyes, long black hair tied with a red ribbon, and age-14 proportions to that sheet. Preserve the costume specified for this scene.
+- Panel direction (not printed text): Use Midori-Academy-Uniform-Production-Sheet.png for Midori’s modified academy uniform, including her longer skirt. The generic academy uniform sheets apply to other students.
+- Setting: Examiner area
+- Camera: Close on Brienmay
+- Scene: ([CH13-V0153] Direction: His unusual seriousness makes the students uneasy.)
+- Blocking: Brienmay in foreground; Midori facing him
+- CH13-U0121: Brienmay, speech balloon (one speaker tail): “Who taught you to think that way?”
+
+Panel 4:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 4: x=75, y=1030, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 2 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Panel direction (not printed text): Use Midori-Production-Academy.png as the identity reference for Midori. Match the face, dark brown eyes, long black hair tied with a red ribbon, and age-14 proportions to that sheet. Preserve the costume specified for this scene.
+- Panel direction (not printed text): Use Midori-Academy-Uniform-Production-Sheet.png for Midori’s modified academy uniform, including her longer skirt. The generic academy uniform sheets apply to other students.
+- Setting: Midori close-up
+- Camera: Close on face
+- Scene: ([CH13-V0154] Direction: She searches for an answer and wonders whether she has misunderstood the lesson.)
+- Blocking: Midori alone, uneasy expression
+- CH13-U0122: Midori, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Midori: “No one.” -> “I just thought about how it would move.”
+
+Panel 5:
+- Panel direction (not printed text): Maintain left-to-right, top-to-bottom reading order; reserve lettering space inside parity-specific generation-safe area. No non-diegetic text, bubbles, folios or production marks in art PNG. Step 17 Directorial Plan: Provisional panel 5: x=488, y=1030, w=399, h=431 on the 1024×1536 canvas. Primary focus follows Camera and Action; maintain the positions and eyelines stated in Blocking. Keep 1 proposed UID-linked lettering footprint(s) in the reserved upper panel region; place speaker faces, essential hands and props outside those footprints. Use lighting appropriate to the explicitly stated time and location; avoid unexplained shifts between connected scenes. Geometry and lettering registration are provisional until artwork collision review.
+- Panel direction (not printed text): Use Midori-Production-Academy.png as the identity reference for Midori. Match the face, dark brown eyes, long black hair tied with a red ribbon, and age-14 proportions to that sheet. Preserve the costume specified for this scene.
+- Panel direction (not printed text): Use Midori-Academy-Uniform-Production-Sheet.png for Midori’s modified academy uniform, including her longer skirt. The generic academy uniform sheets apply to other students.
+- Setting: Finish area
+- Camera: Medium-wide
+- Scene: ([CH13-V0155] Direction: Brienmay records her result, still thoughtful.) ([CH13-V0346] Direction: Midori bows, reassured by the result but troubled by his questions.)
+- Blocking: Brienmay and Midori; Beli and Kenee small in background
+- CH13-U0123: Brienmay, speech balloon (one speaker tail): “Excellent performance, Miss Midori.”
+
+Story lettering rule: use exactly the 7 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+PRODUCTION FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are added manually in CSP.
+DELIVERY CHECK: return IAKESI-CH13-036-art.png and IAKESI-CH13-036-lettering.png as the two registered PNG layers. The companion IAKESI-CH13-036-text.txt is the authoritative wording file; both PNGs must be 1024×1536 pixels, perfectly registered, and unflattened.
